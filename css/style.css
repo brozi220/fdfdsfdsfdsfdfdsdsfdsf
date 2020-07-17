@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper{
+    width: 100%;
+    float: left
+}
+.header{
+    width: 100%;
+    float: left;
+} 
+.header ul{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-left: 100px;
+}
+.header li{
+    display: inline-block;
+    margin-right: 100px;
+    text-transform: uppercase;
+    font-size: 14pt;
+}
+a{
+    color: gray;
+    text-decoration: none;
+}
+a:hover{
+    color: aqua;
+}
+.main{
+    width: 100%;
+    float: left;
+}
+.orang{
+    width: 450px;
+    display: inline-block;
+    color: gray;
+    margin-left: 215px;
+}
+.main p{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text{
+    margin-top: 20px;
+}
+.megaorange2{                                      
+    margin-top: 60px;
+}
+.orang2{
+    width: 450px;
+    display: inline-block;
+    color: gray;
+    margin-left: 215px;
+}
+.text2{
+    margin-top: 60px;
+}
+.megaorange3{                                      
+    margin-top: 60px;
+}
+.orang3{
+    width: 450px;
+    display: inline-block;
+    color: gray;
+    margin-left: 215px;
+}
+.text3{
+    margin-top: 60px;
+}
+button{
+    width: 154px;
+    height: 64px;
+    margin-left: 46%;
+    margin-top: 40px;
+}
+#man{
+    font-size: 15pt;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
